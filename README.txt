@@ -1,3 +1,6 @@
+This is an REST_API made with Flask to get information from a countries-dataset filtering by input data.
+
+
 Data Project
 ************
 
